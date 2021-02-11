@@ -283,6 +283,7 @@
                         $a[(getData('userOptions').reverse) ? 'prev' : 'next']() :
                         $all[(getData('userOptions').reverse) ? 'last' : 'first']();
 
+                    $fractional.addClass('br-selected');
                     $fractional.addClass('br-fractional');
                     $fractional.addClass('br-fractional-' + f);
                 }
