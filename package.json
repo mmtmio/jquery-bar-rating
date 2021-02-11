@@ -1,7 +1,7 @@
 {
   "name": "jquery-bar-rating",
   "description": "Minimal, light-weight jQuery ratings.",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "main": "jquery.barrating.js",
   "license": "MIT",
   "keywords": [
@@ -10,10 +10,6 @@
     "ratings",
     "rating"
   ],
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/antennaio/jquery-bar-rating.git"
-  },
   "dependencies": {
     "jquery": ">=1.7.2"
   },
